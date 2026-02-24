@@ -1,0 +1,12 @@
+
+
+
+.carrousel-item {
+    height: 400px;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+
+}
